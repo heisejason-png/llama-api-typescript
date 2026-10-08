@@ -425,5 +425,4 @@ See [the contributing documentation](./CONTRIBUTING.md).
 ## License
 
 Llama API Typescript SDK is MIT licensed, as found in the LICENSE file.	
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
