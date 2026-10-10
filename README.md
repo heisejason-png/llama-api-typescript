@@ -426,3 +426,4 @@ See [the contributing documentation](./CONTRIBUTING.md).
 
 Llama API Typescript SDK is MIT licensed, as found in the LICENSE file.	
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
